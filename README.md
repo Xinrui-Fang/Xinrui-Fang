@@ -6,7 +6,7 @@
 - 👯 I’m looking for a job on Front-End Developer / UX Engineer.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [www.linkedin.com/in/xinrui-fang](www.linkedin.com/in/xinrui-fang).
+- 📫 How to reach me: [www.linkedin.com/in/xinrui-fang](11).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have both interest in Technology and UX Design.
 
