@@ -9,5 +9,5 @@
 - ⚡ Fun fact: I have both interest in Technology and UX Design.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xinrui-Fang)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xinrui-Fang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
