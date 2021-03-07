@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on an indoor exercise training system. 
 - 🌱 I’m currently learning React and Deep learning.
 - 💬 Feel free to connect me at any time.
-- 📫 How to reach me: [My Linkedln](https://www.linkedin.com/in/xinrui-fang/).
+- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/xinrui-fang/).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I have both interest in Technology and UX Design.
 
