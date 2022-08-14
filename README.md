@@ -1,7 +1,6 @@
 ### Hi, I am Xinrui Fang 👋
 
-- 👯 I’m looking for a job on Front-End Developer / UX Engineer.
-- 🔭 I’m currently working on an indoor exercise training system. 
+- 🔭 I’m currently working as a DevOps Engineer in Rakuten Group Inc. 
 - 🌱 I have passion to explore different advanced technologies.
 - 💬 Feel free to connect me at any time.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/xinrui-fang/).
