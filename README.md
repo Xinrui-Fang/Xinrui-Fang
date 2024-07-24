@@ -1,7 +1,7 @@
 ### Hi, I am Xinrui Fang 👋
 
 - 🔭 I’m currently a PhD Student at the University of Tokyo. 
-- 🌱 I have passion to explore different advanced technologies.
+- 🌱 I am a HCI researcher / creative technologist
 - 💬 Feel free to connect me at any time.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/xinrui-fang/).
 - 😄 Pronouns: He/Him.
